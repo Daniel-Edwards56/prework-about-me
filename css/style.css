@@ -68,3 +68,8 @@ section > h1 {
   display: inline-block;
   margin: 0 5px;
 }
+
+.test{
+  text-align: center;
+  font-size: 50px;
+}
